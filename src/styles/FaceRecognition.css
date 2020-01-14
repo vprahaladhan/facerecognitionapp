@@ -1,0 +1,22 @@
+.vl {
+    border-left: 6px solid green;
+    height: 500px;
+    position: relative;
+    left: 20%;
+    top: 10%;
+}
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.input_image {
+    width: 500px;
+    height: 333px;
+    position: relative;
+}
